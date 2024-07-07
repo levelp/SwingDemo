@@ -17,7 +17,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-swing</artifactId>
-            <version>3.5.0</version>
+            <version>3.17.1</version>
         </dependency>
 
         <dependency>
